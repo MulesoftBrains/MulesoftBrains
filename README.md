@@ -17,7 +17,7 @@ I'm a Senior Associate Technology L1 who started creating content and is now a M
   <a href="mailto:prashantjn77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="http://wa.me/+918269684968"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.facebook.com/luckeejn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.dev/pr7776"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.dev/MulesoftBrains"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://gitlab.com/prashantjn77"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   
 
@@ -48,8 +48,8 @@ I'm a Senior Associate Technology L1 who started creating content and is now a M
 ## ⭐️ GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/pr7776">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr7776&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
+  <a href="https://github.com/MulesoftBrains">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulesoftBrains&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
   
 </p>
 
