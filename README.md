@@ -49,7 +49,7 @@ I'm a Senior Associate Technology L1 who started creating content and is now a M
 
 <p align="center">
   <a href="https://github.com/MulesoftBrains">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulesoftBrains&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulesoftBrains&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true" />
   
 </p>
 
